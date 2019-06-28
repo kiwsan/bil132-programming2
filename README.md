@@ -4,8 +4,8 @@
 
 ### Compiling
 
-    $ gcc helloworld.c -o helloworld
+    $ gcc main.c -o game
 
 ### Run
 
-    $ ./helloworld
+    $ ./game
